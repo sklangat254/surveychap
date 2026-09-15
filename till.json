@@ -37,5 +37,6 @@
   "annotation" : "250",
   "categorization" : "270",
   "recognition" : "300",
-  "arrangement" : "350"
+  "arrangement" : "350",
+  "unlock" : "all"
 }
