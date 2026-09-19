@@ -19,7 +19,7 @@
   "eligtitle" : "tomoo",
   "eligcont" : "shows",
   "showadtime" : "all",
-  "activateacc" : "200",
+  "activateacc" : "100",
   "islive" : "live",
   "badgelimitamount" : "35000",
   "showbadgeornot" : "True",
